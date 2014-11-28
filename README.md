@@ -23,6 +23,12 @@ Each DOM element is managed as Erlang process!
 
 performance may be just lower. But, this is very portable way to implement BEAM.
 
+Already forerunning project exists. 
+http://www.erlang-factory.com/conference/SFBay2011/speakers/YuriiRashkovskii
+
+Erlang interface for V8 : https://github.com/beamjs/erlv8
+This is not exactly match of 'BEAM on V8' but its interface architecture is MUST TO READ for me, anyway.
+
 Server side
 ----
 
