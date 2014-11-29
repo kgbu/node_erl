@@ -34,3 +34,8 @@ Server side
 
 Just a plain Erlang node.
 But communicate with TLS protected communication path.
+
+Protocol
+----
+
+HTTP1,2 or pub/sub style, or just Erlang node conneciton over TLS
