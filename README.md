@@ -39,3 +39,5 @@ Protocol
 ----
 
 HTTP1,2 or pub/sub style, or just Erlang node conneciton over TLS
+
+for Server side distribution, Docker link like feature maybe useful (not confirmed)
